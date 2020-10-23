@@ -1,6 +1,6 @@
 # IPTV
 Welcome to this simple project.
-Let me explain why I create it!
+I'll explain why I create it!
 
 ### Context
 It’s 2020. The world has been terrified by COVID-19, people practice distancing social and even stay in home.
