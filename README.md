@@ -28,4 +28,4 @@ To make a solution, I need follow this step:
 3. Work in a possible solution.
 
 
-**-to be continue-**
+**... to be continue.**
