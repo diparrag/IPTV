@@ -9,3 +9,6 @@ October 23, I’m been working until three days ago… now I’m on vacations. I
 
 ## Idea
 So, what if I’ll found a way to see tv channels in my smart tv using wifi signal? This is not a new idea in the world, acctualy I’m talk about IPTV. Let’s work!
+
+
+... to be continue!
