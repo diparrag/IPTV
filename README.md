@@ -32,4 +32,6 @@ To make a solution, I need follow this step:
 * [Page](https://diparrag.github.io/IPTV/)
 * [Repository](https://github.com/diparrag/IPTV)
 
-> **Note:** Currently I'm work in the step 1, when I finish it I'll update site with information about it.**
+
+## Progress
+> **Note:** Currently I'm work in the step 3, when I finish it I'll update site with all information about it.**
