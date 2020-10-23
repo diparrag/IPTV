@@ -2,7 +2,7 @@
 Welcome to this simple project, I'll explain why I create it.
 
 ## Context
-It’s 2020. The world has been terrified by COVID-19, people practice distancing social and even stay in home.
+It’s 2020. The world has been terrified by COVID-19, people practice social distancing and even stay in home.
 The consumer of tv and internet is high, the procastination is increasing.
 
 ## Problem
