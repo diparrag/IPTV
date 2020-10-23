@@ -23,12 +23,13 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 
 ## Solution
 To make a solution, I need follow this step:
-1. Study about IPTV.
-2. Make a hypothesis.
-3. Work in a possible solution.
+* Step 1: Study about IPTV.
+* Step 2: Make a hypothesis.
+* Step 3: Work in a possible solution.
 
-> **... to be continue.**
 
 ## Links
 * [Page](https://diparrag.github.io/IPTV/)
 * [Repository](https://github.com/diparrag/IPTV)
+
+> ** Note: ** Currently I'm work in the step 1, when I finish it I'll update site with information about it.**
