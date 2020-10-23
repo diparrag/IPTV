@@ -27,4 +27,7 @@ To make a solution, I need follow this step:
 - [ ] Make a hypothesis.
 - [ ] Work in a possible solution.
 - [ ] Release this possible solution.
-Let’s do it! **-to be continue-**
+
+Let’s do it! 
+
+**-to be continue-**
