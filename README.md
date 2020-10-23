@@ -23,7 +23,6 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 
 ## Solution
 To make a solution, I need follow this step:
-
 1. Study about IPTV.
 2. Make a hypothesis.
 3. Work in a possible solution.
