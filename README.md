@@ -27,14 +27,12 @@ To make a solution, I need follow this step:
 * Step 2: Make a hypothesis.
 * Step 3: Work in a possible solution.
 
+
 #### Progress
 ```
 
-Currently I'm work in the step 3, when I finish it I'll update site with all information about it.
+Currently I'm work in the step 3, when I finish it I'll update the repository and page with all information about it.
 
 ```
-
-## 5. Links
-* [Page](https://diparrag.github.io/IPTV/)
-* [Repository](https://github.com/diparrag/IPTV)
-
+- [Repository](https://github.com/diparrag/IPTV)
+- [Page](https://diparrag.github.io/IPTV/)
