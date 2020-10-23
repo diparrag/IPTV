@@ -23,10 +23,9 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 
 ## Solution
 To make a solution, I need follow this step:
-- [ ] Study about this topic -IPTV-.
+- [ ] Study about IPTV.
 - [ ] Make a hypothesis.
 - [ ] Work in a possible solution.
-- [ ] Release this possible solution.
 
 Let’s do it! 
 
