@@ -27,5 +27,8 @@ To make a solution, I need follow this step:
 2. Make a hypothesis.
 3. Work in a possible solution.
 
+> **... to be continue.**
 
-**... to be continue.**
+## Links
+* [Page](https://diparrag.github.io/IPTV/)
+* [Repository](https://github.com/diparrag/IPTV)
