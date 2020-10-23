@@ -2,13 +2,13 @@
 Welcome to this simple project, I'll explain why I create it.
 
 
-## Context
+## 1. Context
 It’s 2020. The world has been terrified by COVID-19, people practice social distancing and even stay in home.
 
 The consumer of tv and internet is high, the procastination is increasing.
 
 
-## Problem
+## 2. Problem
 October 23, I’m been working until three days ago, now I’m on vacations for a few days -I hope-.
 
 I live in a rent bedroom and the walls are wide, so cellular and television signals don’t get here.
@@ -16,21 +16,22 @@ I live in a rent bedroom and the walls are wide, so cellular and television sign
 This situation wasn’t a problem before COVID-19 because I work so hard and only stay in the house to sleep. But now, with my current situation, I’m been trying stay away from pc and relax even I think watch television but it’s not possible because I live in a “cave” with wifi.
 
 
-## Idea
+## 3. Idea
 Do exist a way to see tv channels in my smart tv using only wifi signal?
 This is not a new or first idea in the world, acctualy I’m talk about [IPTV](https://en.wikipedia.org/wiki/Internet_Protocol_television).
 
 
-## Solution
+## 4. Solution
 To make a solution, I need follow this step:
 * Step 1: Study about IPTV.
 * Step 2: Make a hypothesis.
 * Step 3: Work in a possible solution.
 
 
-## Links
+## 5. Links
 * [Page](https://diparrag.github.io/IPTV/)
 * [Repository](https://github.com/diparrag/IPTV)
 
 
-> **Progress:** Currently I'm work in the step 3, when I finish it I'll update site with all information about it.**
+> **Progress**
+> Currently I'm work in the step 3, when I finish it I'll update site with all information about it.**
