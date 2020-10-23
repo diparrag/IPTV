@@ -34,4 +34,6 @@ To make a solution, I need follow this step:
 
 
 > **Progress**
-> Currently I'm work in the step 3, when I finish it I'll update site with all information about it.**
+```
+Currently I'm work in the step 3, when I finish it I'll update site with all information about it.**
+```
