@@ -1,0 +1,79 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiocorazon.png" tvg-name="CORAZON",CORAZON
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZONAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioexitosa.png" tvg-name="EXITOSA",EXITOSA
+http://167.114.116.212:1935/radioexitosa2016/radioexitosa.stream/playlist.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiofelicidad.png" tvg-name="FELICIDAD",FELICIDAD
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDADAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiokaribeña.png" tvg-name="KARIBEÑA",KARIBEÑA
+http://167.114.116.212:1935/corporacionz/karibena2016.stream/playlist.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolainolvidable.png" tvg-name="LA INOLVIDABLE",LA INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolakalle.png" tvg-name="LA KALLE",LA KALLE
+http://167.114.116.212:1935/grupovegas/kalle.stream/media_w568240046_206639.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolamega.png" tvg-name="LA MEGA",LA MEGA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAMEGAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolanube.png" tvg-name="LA NUBE",LA NUBE
+https://streaming.gometri.com/stream/8025/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolaochentera.png" tvg-name="LA OCHENTERA",LA OCHENTERA
+https://tupanel.info:2000/stream/laochentera
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiolazona.png" tvg-name="LA ZONA",LA ZONA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiomagica.png" tvg-name="MAGICA",MAGICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiomoda.png" tvg-name="MODA",MODA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radionacional.png" tvg-name="NACIONAL",NACIONAL
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioq.png" tvg-name="NUEVA Q",NUEVA Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiooasis.png" tvg-name="OASIS",OASIS
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioondacero.png" tvg-name="ONDA CERO",ONDA CERO
+http://192.99.148.184:6720/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiooxigeno.png" tvg-name="OXIGENO",OXIGENO
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENOAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiopanamericana.png" tvg-name="PANAMERICANA",PANAMERICANA
+http://51.161.86.139:6010/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioperucumbia.png" tvg-name="PERU CUMBIA",PERU CUMBIA
+http://184.154.28.210:7130/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioplaneta.png" tvg-name="PLANETA",PLANETA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiomar.png" tvg-name="RADIOMAR",RADIOMAR
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radioritmoromantica.png" tvg-name="RITMO ROMANTICA",RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiorppnoticias.png" tvg-name="RPP NOTICIAS",RPP NOTICIAS
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPPAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiostudio92.png" tvg-name="STUDIO 92",STUDIO 92
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_STUDIO92AAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiotoplatino.png" tvg-name="TOP LATINO",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/chunklist_w1248626100.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"../images/radiozrock&pop.png" tvg-name="Z ROCK & POP",Z ROCK & POP
+http://167.114.118.120:7440/;
