@@ -1,5 +1,4 @@
-# IPTV
-Welcome to this simple project, I'll explain why I create it.
+Welcome to IPTV project, I'll explain why I create it.
 
 
 ## 1. Context
