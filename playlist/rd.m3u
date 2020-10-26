@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radio.corazon.pe/img/160x90-logocorazon.png" tvg-name="CORAZON",CORAZON
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZONAAC.aac
