@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radio.corazon.pe/img/160x90-logocorazon.png" tvg-name="CORAZON",CORAZON
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CORAZONAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/01/EXITOSA-LOGO-CON-EFECTO.png" tvg-name="EXITOSA",EXITOSA
+http://167.114.116.212:1935/radioexitosa2016/radioexitosa.stream/playlist.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radio.felicidad.com.pe/img/station-logo.png" tvg-name="FELICIDAD",FELICIDAD
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDADAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://i0.wp.com/radiokaribena.pe/portal2020/wp-content/uploads/2020/03/00000001-1.png" tvg-name="KARIBEÑA",KARIBEÑA
+http://167.114.116.212:1935/corporacionz/karibena2016.stream/playlist.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://lainolvidable.pe/assets/images/logo-lainolvidable-2020.png" tvg-name="LA INOLVIDABLE",LA INOLVIDABLE
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_LI_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"http://i0.wp.com/www.radiolakalle.pe/wp-content/uploads/2015/05/LOGO-CON-SLOGAN1-e1513719885620.png" tvg-name="LA KALLE",LA KALLE
+http://167.114.116.212:1935/grupovegas/kalle.stream/media_w568240046_206639.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radiolamega.pe/img/logo.png" tvg-name="LA MEGA",LA MEGA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAMEGAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://www.radiolanube.com/img/logos/logo-lanuberadio.png" tvg-name="LA NUBE",LA NUBE
+https://streaming.gometri.com/stream/8025/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://laochentera.com/imgs/laochentera6.png" tvg-name="LA OCHENTERA",LA OCHENTERA
+https://tupanel.info:2000/stream/laochentera
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radio.lazona.com.pe/img/160x90-logolazona.png" tvg-name="LA ZONA",LA ZONA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"http://radiomagica.pe/assets/images/Logo-Radio-Magica.png" tvg-name="MAGICA",MAGICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAG_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://moda.com.pe/assets/images/logo-solo.png" tvg-name="MODA",MODA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MOD_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://www.radionacional.com.pe/sites/default/files/logo-nacional.png" tvg-name="NACIONAL",NACIONAL
+https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radionuevaq.pe/assets/images/logo-nueva-q.png" tvg-name="NUEVA Q",NUEVA Q
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_NQ_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://oasis.pe/assets/images/logo-radio-oasis.png" tvg-name="OASIS",OASIS
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OAS_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"http://www.ondacero.com.pe/images/web/web-logo.png" tvg-name="ONDA CERO",ONDA CERO
+http://192.99.148.184:6720/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://s.radio-oxigeno.io/static/img/logofooter.jpg" tvg-name="OXIGENO",OXIGENO
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENOAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://www.gpr.com.pe/images/logo-panamericana.png" tvg-name="PANAMERICANA",PANAMERICANA
+http://51.161.86.139:6010/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://www.perucumbia.com.pe/imgs/perucumbia_com_pe.png" tvg-name="PERU CUMBIA",PERU CUMBIA
+http://184.154.28.210:7130/stream
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://planeta.pe/assets/images/logo-planeta.png" tvg-name="PLANETA",PLANETA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_PLAAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://radiomar.pe/assets/images/logo-radiomar.png" tvg-name="RADIOMAR",RADIOMAR
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_MAR_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://ritmoromantica.pe/assets/images/logo-ritmo-romantica.png" tvg-name="RITMO ROMANTICA",RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://s.rpp-noticias.io/static/img/logo-rpp.svg" tvg-name="RPP",RPP
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RPPAAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://s.radio-studio92.io/static/img/logo_studio92.svg" tvg-name="STUDIO 92",STUDIO 92
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_STUDIO92AAC.aac
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" tvg-name="TOP LATINO",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/chunklist_w1248626100.m3u8
+
+#EXTINF:-1 group-title:"RADIO" tvg-logo:"http://i0.wp.com/www.radioz.pe/wp-content/uploads/2017/12/LOGO-EFECTO.png" tvg-name="Z ROCK & POP",Z ROCK & POP
+http://167.114.118.120:7440/;
