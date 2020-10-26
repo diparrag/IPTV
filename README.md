@@ -31,7 +31,8 @@ To make a solution, I need follow this step:
 #### Progress
 ```
 
-Currently I'm work in the step 3, when I finish it I'll update the repository and page with information about it.
+Currently I'm work in the step 3.
+when I finish it I'll update the repository and page with information about it.
 
 ```
 - Link to [Repository](https://github.com/diparrag/IPTV).
