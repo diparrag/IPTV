@@ -23,14 +23,13 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 ## 4. Solution
 To make a solution, I need follow this step:
 * Step 1: Study about IPTV.
-* Step 2: Make a hypothesis.
-* Step 3: Work in a possible solution.
+* Step 2: Work in a solution.
 
 
 #### Progress
 ```
 
-Currently I'm work in the step 3.
+Currently I'm work in the step 2.
 I'll update the repository and page when I finish it.
 
 ```
