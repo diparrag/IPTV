@@ -22,14 +22,15 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 
 ## 4. Solution
 To make a solution, I need follow this step:
-* Step 1: Study about IPTV.
-* Step 2: Work in a solution.
+* Step 1: Get IP channel.
+* Step 2: Create list M3U4.
+* Step 3: Host list M3U4.
 
 
 #### Progress
 ```
 
-Currently I'm work in the step 2.
+Currently I'm work in the step 3.
 I'll update the repository and page when I finish it.
 
 ```
