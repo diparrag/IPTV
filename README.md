@@ -22,9 +22,9 @@ This is not a new or first idea in the world, acctualy I’m talk about [IPTV](h
 
 ## 4. Solution
 To make a solution, I need follow this step:
-* __Step 1:__ Get IP channel.
-* __Step 2:__ Create list M3U4.
-* __Step 3:__ Host list M3U4.
+* **Step 1:** Get IP channel.
+* **Step 2:** Create list M3U4.
+* **Step 3:** Host list M3U4.
 
 
 #### Progress
